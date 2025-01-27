@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Full-stack coding assignment
 
 Develop a basic family photo management application, where a family member can view photos in albums of another family member, while being able to create, update, and delete their own photos and albums.
@@ -121,4 +120,3 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
->>>>>>> master
